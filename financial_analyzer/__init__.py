@@ -1,0 +1,1 @@
+"""Financial statement analyzer package."""

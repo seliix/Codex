@@ -1,0 +1,13 @@
+statement,line_item,2022,2023,2024
+income_statement,Revenue,1250000,1410000,1565000
+income_statement,Cost of Revenue,780000,860000,931000
+income_statement,Gross Profit,470000,550000,634000
+income_statement,Operating Income,185000,221000,272000
+income_statement,Net Income,118000,134000,162000
+balance_sheet,Current Assets,360000,406000,455000
+balance_sheet,Inventory,92000,101000,109000
+balance_sheet,Current Liabilities,210000,228000,241000
+balance_sheet,Total Assets,980000,1105000,1230000
+balance_sheet,Total Liabilities,560000,635000,680000
+balance_sheet,Shareholders Equity,420000,470000,550000
+cash_flow,Cash,87000,103000,126000
